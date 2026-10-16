@@ -1,0 +1,6 @@
+best_value = 7874
+best_rooms = 5 (аудиторий всего: 8)
+best_waste = 379
+assign = [4, 1, 4, 4, 2, 2, 0, 3, 2, 3, 3, 3, 4, 1, 0, 3, 4, 0, 0, 1, 0, 1, 2, 1, 2]
+seed = 0
+feasible = True
